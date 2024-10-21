@@ -16,4 +16,4 @@ class Counter {
 //code to test the counter
 var counter = Counter()
 counter.increment()
-print("Counter value after the increment: \(counterValue)")
+print("Counter value after the increment: \(counter.value)")
